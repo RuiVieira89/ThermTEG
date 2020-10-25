@@ -13,9 +13,9 @@
 #include <process.h> 
 #include <stdio.h> 
 
-#include <C:\dev\THERMOSS\HP2Dt\cpp\src\eigen\eigen\Sparse>
-#include <C:\dev\THERMOSS\HP2Dt\cpp\src\eigen\eigen\Dense>
-#include <C:\dev\THERMOSS\HP2Dt\cpp\src\eigen\Eigen\IterativeLinearSolvers>
+#include <\eigen\eigen\Sparse>
+#include <\eigen\eigen\Dense>
+#include <\eigen\Eigen\IterativeLinearSolvers>
 
 #include "declare.h"
 #include "initVar.cpp"
