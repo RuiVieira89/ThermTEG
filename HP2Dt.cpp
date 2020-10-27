@@ -27,7 +27,7 @@
 int main() {
 
     init_n_print();
-	initPropTEG();
+    initPropTEG();
     HP_2Dtsolve();
 
 	std::cin.get();
