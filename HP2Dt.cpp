@@ -26,11 +26,11 @@
 
 int main() {
 
-    init_n_print();
-    initPropTEG();
-    HP_2Dtsolve();
+	init_n_print();
+	initPropTEG();
+	HP_2Dtsolve();
 
 	std::cin.get();
 
-    return 0;
+	return 0;
 }
