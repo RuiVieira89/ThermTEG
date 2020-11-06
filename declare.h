@@ -1,6 +1,12 @@
 #ifndef DECLARE
 #define DECLARE
 
+#include "initVar.cpp"
+#include "matProp.cpp"
+#include "write.cpp"
+#include "solveTEG.cpp"
+#include "solveHP.cpp"
+
 
 auto start = std::chrono::system_clock::now();
 auto timeElapsed1_old = std::chrono::system_clock::now();
