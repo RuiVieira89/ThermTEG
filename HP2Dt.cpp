@@ -18,11 +18,6 @@
 #include <\eigen\Eigen\IterativeLinearSolvers>
 
 #include "declare.h"
-#include "initVar.cpp"
-#include "matProp.cpp"
-#include "write.cpp"
-#include "solveTEG.cpp"
-#include "solveHP.cpp"
 
 int main() {
 
